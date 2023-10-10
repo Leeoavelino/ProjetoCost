@@ -1,0 +1,81 @@
+{
+  "projects": [
+    {
+      "name": "Clutter",
+      "budget": "140",
+      "category": {
+        "id": "4",
+        "name": "Planejamento"
+      },
+      "cost": 21,
+      "services": [
+        {
+          "name": "Czar Clutter",
+          "cost": "10",
+          "description": "borA B",
+          "id": "a7f50177-a8dd-42a3-b320-9c2481ed1ca3"
+        },
+        {
+          "name": "Valleria the red",
+          "cost": "10",
+          "description": "ad",
+          "id": "4cf90be9-e817-433f-a905-f3e949acc00a"
+        },
+        {
+          "name": "Czar Clutter",
+          "cost": "1",
+          "description": "1",
+          "id": "2615001e-bb8a-470e-a926-db8ed7cf440b"
+        }
+      ],
+      "id": 3
+    },
+    {
+      "name": "Le Fantasma ",
+      "budget": "2002",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "cost": 100,
+      "services": [
+        {
+          "name": "Red Sonja",
+          "cost": "100",
+          "description": "borA B",
+          "id": "2d86223a-c536-4689-92d4-58af50158024"
+        }
+      ],
+      "id": 5
+    },
+    {
+      "name": "Clutter Junior",
+      "budget": "1",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 6
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Infra"
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 3,
+      "name": "Design"
+    },
+    {
+      "id": 4,
+      "name": "Planejamento"
+    }
+  ]
+}
