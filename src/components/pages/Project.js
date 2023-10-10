@@ -10,7 +10,7 @@ import ProjectForm from '../project/ProjectForm'
 import Message from '../layout/Message'
 import ServiceForm from '../services/ServiceForm'
 import ServiceCard from '../services/ServiceCard'
-
+ 
 export default function Project(){
 
     const {id} = useParams() //para pegar o id que vem da  url
